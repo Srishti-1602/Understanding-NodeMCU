@@ -18,3 +18,5 @@ https://www.deviceplus.com/arduino/arduino-communication-protocols-tutorial/#UAR
 https://www.programmingboss.com/2021/04/esp32-arduino-serial-communication-with-code.html
 
 https://roboindia.com/tutorials/nodemcu-connecting-internet-arduino/
+
+>Source codes provided in this repository are taken from some websites like above, none of them are written by me. In order to find more such basic codes you can take help of google, there are many other options.
