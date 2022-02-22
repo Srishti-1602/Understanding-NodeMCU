@@ -19,4 +19,6 @@ https://www.programmingboss.com/2021/04/esp32-arduino-serial-communication-with-
 
 https://roboindia.com/tutorials/nodemcu-connecting-internet-arduino/
 
+https://www.aranacorp.com/en/communication-between-two-esp8266-via-wifi/
+
 >Source codes provided in this repository are taken from some websites like above, none of them are written by me. In order to find more such basic codes you can take help of google, there are many other options.
